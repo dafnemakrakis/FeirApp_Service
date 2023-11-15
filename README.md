@@ -27,8 +27,8 @@ Project running in the port: 9191
 
 ## Testes
 
-** Testes unitários na classe Service
-** Testes componente na classe Controller
+* Testes unitários na classe Service
+ Testes componente na classe Controller
 
 #### Testes unitários:
 * Salvar feira - sucesso
