@@ -26,7 +26,10 @@ Project running in the port: 9191
 
 
 
-#### Note:
-* You have to create a mysql database named: feirapp
-* To create, delete and get all fair you need import curl in postman
+#### Testes unitários:
+* Salvar feira - sucesso
+* Deletar feira - sucesso
+* Mostrar feira por dia de semana - sucesso
+* Mostrar feira - sucesso
+* Mostrar todas as feiras - sucesso
 
